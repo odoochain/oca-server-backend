@@ -5,7 +5,7 @@
 {
     "name": "User roles",
     "version": "15.0.0.2.1",
-    "category": "Tools",
+    "category": "Generic Modules/Tools",
     "author": "ABF OSIELL, Odoo Community Association (OCA)",
     "license": "LGPL-3",
     "maintainers": ["sebalix", "jcdrubay", "novawish"],

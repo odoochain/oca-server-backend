@@ -4,7 +4,7 @@
 {
     "name": "Base Global Discount",
     "version": "15.0.1.0.0",
-    "category": "Base",
+    "category": "Generic Modules/Base",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/server-backend",
     "license": "AGPL-3",
