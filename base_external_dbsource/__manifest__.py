@@ -8,7 +8,7 @@
     "author": "Daniel Reis, " "LasLabs, " "Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/server-backend",
     "license": "LGPL-3",
-    "images": ["images/screenshot01.png"],
+    "images": ["/static/description/icon.png"],
     "depends": ["base"],
     "data": [
         "views/base_external_dbsource.xml",
